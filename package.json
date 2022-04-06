@@ -1,1 +1,19 @@
-
+{
+  "name": "zero",
+  "version": "1.0.0",
+  "description": "By Zero ",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "SmSm",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "node": "17.5.0"
+  }
+}
