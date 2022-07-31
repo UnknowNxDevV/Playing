@@ -12,7 +12,7 @@ client.on('ready', async () => { console.log(`The`,client.user.tag,`is Online`);
 
 client.on('ready', async () => {
 client.user.setPresence({status: "Idle" } )
-client.user.setActivity( {type: "PLAYING", url: "https://www.twitch.tv/@#£"}, {name: "Under Development By Dream server "} ) 
+client.user.setActivity( {type: "PLAYING", url: "https://www.twitch.tv/@#£"}, {name: "Under Development By xala abo "} ) 
 
    })
    
