@@ -16,4 +16,4 @@ client.user.setActivity( {type: "PLAYING", url: "https://www.twitch.tv/@#£"}, {
 
    })
    
-client.login("ODAyOTI3NTMzMDcwMzUyNDI1.GB87Ut.5_WBWO-ul-Gse4dY8b7gDrZ7nSrskRwoQeYGlw")
+client.login("")
