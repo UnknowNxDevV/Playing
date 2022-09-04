@@ -21,6 +21,6 @@ client.user.setActivity( {type: "PLAYING", url: "https://www.twitch.tv/"}, {name
 
    
 //Token Lera Dabne
-client.login("")
+client.login("You Token Acc")
 
 // Coded By Unknown
