@@ -2,10 +2,10 @@
   "name": "Playing",
   "version": "1.0.0",
   "description": "By Unknown ",
-  "main": "bot.js",
+  "main": "Unknown.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node bot.js"
+    "start": "node Unknown.js"
   },
   "author": "Unknown",
   "license": "ISC",
